@@ -1,4 +1,4 @@
-# Data Warehousing with AWS Redshift project for Udacity Data Engineer Nanodegree
+# Data Warehousing with Amazon Redshift project for Udacity Data Engineer Nanodegree
 
 ## Project overview
 This is Data Warehouse project for Udacity Data Engineer Nanodegree. In this project I create an **ETL pipeline** that extracts data from **AWS S3** and loads it into a database schema using **AWS Redshift** as staging mechanism.  This JSON files represent a user activity logs collected by a music streaming app of an imaginary startup Sparkify. And the resulting database will be used for analytical purposes.
