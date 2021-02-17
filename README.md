@@ -32,5 +32,6 @@ The code is **Python** scripts and it requires:
 ## Run the Code
 
 `python create_tables.py`
+
 `python etl.py`
 
